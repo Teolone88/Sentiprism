@@ -1,0 +1,207 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+@media(min-width:320px) and (max-width:480px) {
+	.padding_786 {
+		padding-left: 0 !important;
+		padding-right: 0 !important;
+	}
+	.s_container{
+
+
+padding-left: 0%!important;
+padding-right:  0%!important;
+
+	}
+
+	.s_mobile_width{
+
+width: 100%;
+
+	}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #333!important;
+  font-size: 15px!important;
+  letter-spacing: 0.5px!important;
+  padding: 5px 20px!important;
+  border: 2px solid #777;
+  margin: 5px 10px!important;
+  text-align: center;
+}
+
+.navbar {
+
+padding: 0!important;
+margin:0!important;
+
+}
+.ss_logo_width{
+
+width: 80px;
+
+}
+
+.height_ss{
+
+
+height: auto;
+
+}
+
+
+.ss_padding_text_box{
+
+
+padding-left: 5%;
+padding-right: 5%;
+
+}
+
+.map_location{
+
+
+	height: 400px;
+	margin-top: 10px;
+	margin-bottom: 40px;
+}
+
+.ss_border_right{
+
+
+border-right: 0px solid rgba(0,0,0,0.2);
+
+}
+.ss_profile_detials{
+
+
+    text-align: right;
+    display: inline-grid;
+
+}
+
+.top_padding{
+
+
+padding-top: 20px;
+
+}
+
+	
+}
+
+@media(min-width:480px) and (max-width:767px) {
+
+
+
+.s_container{
+
+
+padding-left: 0%!important;
+padding-right:  0%!important;
+
+	}
+
+	.s_mobile_width{
+
+width: 100%;
+
+	}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #333!important;
+  font-size: 15px!important;
+  letter-spacing: 0.5px!important;
+  padding: 5px 20px!important;
+  border: 2px solid #777;
+  margin: 5px 10px!important;
+  text-align: center;
+}
+
+.navbar {
+
+padding: 0!important;
+margin:0!important;
+
+}
+.ss_logo_width{
+
+width: 80px;
+
+}
+
+}
+
+@media(min-width:768px) and (max-width:1024px) {
+
+
+
+
+.s_container{
+
+
+padding-left: 0%!important;
+padding-right:  0%!important;
+
+	}
+
+	.s_mobile_width{
+
+width: 100%;
+
+	}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #333!important;
+  font-size: 15px!important;
+  letter-spacing: 0.5px!important;
+  padding: 5px 20px!important;
+  border: 2px solid #777;
+  margin: 5px 10px!important;
+  text-align: center;
+}
+
+.navbar {
+
+padding: 0!important;
+margin:0!important;
+
+}
+.ss_logo_width{
+
+width: 80px;
+
+}
+
+.height_ss{
+
+
+height: auto;
+
+}
+	.welcome_profile{
+
+
+
+			font-size: 14px;
+	}
+	.ss_profile_detials > li{
+
+
+margin: 0 10px;
+
+	}
+	
+}
+
+@media(min-width:1024px) and (max-width:1366px) {
+
+
+	.height_ss{
+
+
+height: 800px;
+
+}
+}

@@ -1,0 +1,30 @@
+[11-Jun-2018 07:13:44 UTC] PHP Fatal error:  Uncaught exception 'Abraham\TwitterOAuth\TwitterOAuthException' with message '{"errors":[{"code":415,"message":"Callback URL not approved for this client application. Approved callback URLs can be adjusted in your application settings"}]}' in /home/sensus/public_html/sentiprism/code/Twitter/src/TwitterOAuth.php:138
+Stack trace:
+#0 /home/sensus/public_html/sentiprism/code/twitterlogin.php(14): Abraham\TwitterOAuth\TwitterOAuth->oauth('oauth/request_t...', Array)
+#1 {main}
+  thrown in /home/sensus/public_html/sentiprism/code/Twitter/src/TwitterOAuth.php on line 138
+[11-Jun-2018 07:15:05 UTC] PHP Fatal error:  Uncaught exception 'Abraham\TwitterOAuth\TwitterOAuthException' with message '{"errors":[{"code":415,"message":"Callback URL not approved for this client application. Approved callback URLs can be adjusted in your application settings"}]}' in /home/sensus/public_html/sentiprism/code/Twitter/src/TwitterOAuth.php:138
+Stack trace:
+#0 /home/sensus/public_html/sentiprism/code/twitterlogin.php(14): Abraham\TwitterOAuth\TwitterOAuth->oauth('oauth/request_t...', Array)
+#1 {main}
+  thrown in /home/sensus/public_html/sentiprism/code/Twitter/src/TwitterOAuth.php on line 138
+[11-Jun-2018 07:20:04 UTC] PHP Fatal error:  Uncaught exception 'Abraham\TwitterOAuth\TwitterOAuthException' with message '{"errors":[{"code":415,"message":"Callback URL not approved for this client application. Approved callback URLs can be adjusted in your application settings"}]}' in /home/sensus/public_html/sentiprism/code/Twitter/src/TwitterOAuth.php:138
+Stack trace:
+#0 /home/sensus/public_html/sentiprism/code/twitterlogin.php(14): Abraham\TwitterOAuth\TwitterOAuth->oauth('oauth/request_t...', Array)
+#1 {main}
+  thrown in /home/sensus/public_html/sentiprism/code/Twitter/src/TwitterOAuth.php on line 138
+[11-Jun-2018 07:20:08 UTC] PHP Fatal error:  Uncaught exception 'Abraham\TwitterOAuth\TwitterOAuthException' with message '{"errors":[{"code":415,"message":"Callback URL not approved for this client application. Approved callback URLs can be adjusted in your application settings"}]}' in /home/sensus/public_html/sentiprism/code/Twitter/src/TwitterOAuth.php:138
+Stack trace:
+#0 /home/sensus/public_html/sentiprism/code/twitterlogin.php(14): Abraham\TwitterOAuth\TwitterOAuth->oauth('oauth/request_t...', Array)
+#1 {main}
+  thrown in /home/sensus/public_html/sentiprism/code/Twitter/src/TwitterOAuth.php on line 138
+[11-Jun-2018 07:20:18 UTC] PHP Fatal error:  Uncaught exception 'Abraham\TwitterOAuth\TwitterOAuthException' with message '{"errors":[{"code":415,"message":"Callback URL not approved for this client application. Approved callback URLs can be adjusted in your application settings"}]}' in /home/sensus/public_html/sentiprism/code/Twitter/src/TwitterOAuth.php:138
+Stack trace:
+#0 /home/sensus/public_html/sentiprism/code/twitterlogin.php(14): Abraham\TwitterOAuth\TwitterOAuth->oauth('oauth/request_t...', Array)
+#1 {main}
+  thrown in /home/sensus/public_html/sentiprism/code/Twitter/src/TwitterOAuth.php on line 138
+[11-Jun-2018 07:20:45 UTC] PHP Fatal error:  Uncaught exception 'Abraham\TwitterOAuth\TwitterOAuthException' with message '{"errors":[{"code":415,"message":"Callback URL not approved for this client application. Approved callback URLs can be adjusted in your application settings"}]}' in /home/sensus/public_html/sentiprism/code/Twitter/src/TwitterOAuth.php:138
+Stack trace:
+#0 /home/sensus/public_html/sentiprism/code/twitterlogin.php(14): Abraham\TwitterOAuth\TwitterOAuth->oauth('oauth/request_t...', Array)
+#1 {main}
+  thrown in /home/sensus/public_html/sentiprism/code/Twitter/src/TwitterOAuth.php on line 138
